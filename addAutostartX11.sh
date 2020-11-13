@@ -4,7 +4,7 @@ echo '
 [Desktop Entry]
 Comment[en_US]=sh ~/.Autostart
 Comment=sh ~/.Autostart
-Exec=/usr/bin/sh .Autostart
+Exec=/usr/bin/sh ~/.Autostart
 GenericName[en_US]=
 GenericName=
 Icon=application-default-icon
